@@ -3,12 +3,6 @@
 @@||cdninstagram.com^$important
 @@||instagram.com^$important
 @@||instagram.c10r.facebook.com^$important
-# F1 TV
-@@||f1-prod-production.apigee.net^$important
-@@||f1-prod-production.dn.apigee.net^$important
-@@||formula1.com^$important
-# Joyn TV Stream
-@@||yospace.com^$important
 # Google
 @@||0.client-channel.google.com^$important
 @@||2.android.pool.ntp.org^$important
@@ -265,14 +259,6 @@
 @@||yr.no^$important
 # Lets Encrypt
 @@||letsencrypt.org^$important
-# Spiegel.de
-@@||sni.cdn.www.spiegel.de.c.footprint.net^$important
-@@||spiegel.de^$important
-# Manager Magazin App
-@@||manager-magazin-de.manager-magazin.de^$important
-@@||cdn1.manager-magazin.de^$important
-@@||sni.cdn.manager-magazin.de.c.footprint.net^$important
-@@||a.manager-magazin.de^$important
 # Disney+ Streaming
 @@||cdn.registerdisney.go.com^$important
 @@||dssott.com^$important
@@ -305,12 +291,17 @@
 @@||datenspende.und-gesund.de^$important
 # Firefox Browser
 @@||detectportal.firefox.com^$important
-# German Corona Warn App
-@@||svc90.main.px.t-online.de^$important
-# Earthquake App
-@@||fe-lb.tranquilli.org^$important
 # Reddit
 @@||reddit.com^$important
 # WhatsApp
 @@||whatsapp.net^$important
 @@||whatsapp.com^$important
+# kris
+@@||intercom.io^$important
+@@||inoreader.com^$important
+@@||washjeff.edu^$important
+@@||synology.com^$important
+@@||userback.io^$important
+@@||atlassian.com^$important
+@@||intercom.com^$important
+@@||intercomcdn.com^$important
