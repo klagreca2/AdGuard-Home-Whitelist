@@ -305,3 +305,5 @@
 @@||atlassian.com^$important
 @@||intercom.com^$important
 @@||intercomcdn.com^$important
+@@||intuit.com^$important
+@@||intuitcdn.net^$important
