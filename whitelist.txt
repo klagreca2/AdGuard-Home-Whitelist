@@ -307,3 +307,5 @@
 @@||intercomcdn.com^$important
 @@||intuit.com^$important
 @@||intuitcdn.net^$important
+@@||washjeff.edu^$important
+@@||washjeffdev.org^$important
