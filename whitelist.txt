@@ -244,6 +244,7 @@
 @@||images-amazon.com^$important
 @@||amazonaws.com^$important
 # Apple
+@@||gateway.fe.apple-dns.net^$important
 @@||gdmf.apple.com.akadns.net^$important
 @@||apple.com^$important
 @@||icloud.com^$important
@@ -314,3 +315,5 @@
 @@||washjeff.edu^$important
 @@||washjeff.dev^$important
 @@||washjeffdev.org^$important
+@@||api.insight.synology.com^$important
+@@||api.smartthings.com^$important
