@@ -231,6 +231,7 @@
 # Sonos
 @@||msmetrics.ws.sonos.com^$important
 # Amazon Prime Video and Amazon CDN
+@@||device-messaging-na.amazon.com^$important
 @@||device-metrics-us.amazon.com^$important
 @@||api.amazonalexa.com^$important
 @@||dcape-na.amazon.com^$important
