@@ -318,3 +318,4 @@
 @@||washjeffdev.org^$important
 @@||api.insight.synology.com^$important
 @@||api.smartthings.com^$important
+@@||assets.micpn.com^$important
