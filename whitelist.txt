@@ -320,3 +320,4 @@
 @@||api.smartthings.com^$important
 @@||assets.micpn.com^$important
 @@||curator.io^$important
+@@||mouseflow.com^$important
