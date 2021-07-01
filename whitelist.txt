@@ -321,3 +321,4 @@
 @@||assets.micpn.com^$important
 @@||curator.io^$important
 @@||mouseflow.com^$important
+@@||mogointeractive.com^$important
